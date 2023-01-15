@@ -20,7 +20,7 @@
 
 В терминале Linux (Ubuntu, Debian): 
 
-```apt install git && git clone https://github.com/WolframRDD/TelegramStoreBot.git```
+```apt install git && git clone https://github.com/TheWolframDev/TelegramStoreBot.git```
 
 На Windows:
 
