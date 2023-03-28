@@ -11,7 +11,7 @@ owners_id = config.owners_id
 #[Главное меню] =================================================================
 
 start = types.ReplyKeyboardMarkup(resize_keyboard=True)
-products = types.KeyboardButton("🛒 Магазин")
+products = types.KeyboardButton("🛒 Купить Юзербот")
 info = types.KeyboardButton("📔 Информация")
 stats = types.KeyboardButton("📰 Профиль")
 help = types.KeyboardButton("🎧 Поддержка")
